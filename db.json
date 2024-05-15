@@ -1,43 +1,43 @@
 {
-  "superheroes": [
+  "super_herois": [
     {
       "id": 1,
-      "name": "Superman",
-      "powers": ["Super strength", "Flight", "Heat vision"],
-      "abilities": ["Leadership", "Combat skills"]
+      "nome": "Superman",
+      "poderes": ["Super força", "Voo", "Visão de calor"],
+      "habilidades": ["Liderança", "Habilidades de combate"]
     },
     {
       "id": 2,
-      "name": "Batman",
-      "powers": ["Strategic intellect", "Wealth"],
-      "abilities": ["Martial arts", "Detective skills"]
+      "nome": "Batman",
+      "poderes": ["Intelecto estratégico", "Riqueza"],
+      "habilidades": ["Artes marciais", "Habilidades de detetive"]
     },
     {
       "id": 3,
-      "name": "Flash",
-      "powers": ["Super speed", "Time manipulation"],
-      "abilities": ["Speed thinking", "Enhanced perception"]
+      "nome": "Flash",
+      "poderes": ["Super velocidade", "Manipulação do tempo"],
+      "habilidades": ["Pensamento rápido", "Percepção aprimorada"]
     },
     {
       "id": 4,
-      "name": "Wonder Woman",
-      "powers": ["Super strength", "Flight", "Lasso of Truth"],
-      "abilities": ["Combat skills", "Diplomacy"]
+      "nome": "Mulher Maravilha",
+      "poderes": ["Super força", "Voo", "Laço da verdade"],
+      "habilidades": ["Habilidades de combate", "Diplomacia"]
     },
     {
       "id": 5,
-      "name": "Aquaman",
-      "powers": ["Underwater adaptation", "Super strength", "Telepathic control over marine life"],
-      "abilities": ["Swimming", "Leadership"]
+      "nome": "Aquaman",
+      "poderes": ["Adaptação subaquática", "Super força", "Controle telepático sobre a vida marinha"],
+      "habilidades": ["Natação", "Liderança"]
     },
     {
       "id": 6,
-      "name": "Green Lantern",
-      "powers": ["Power ring", "Flight", "Energy constructs"],
-      "abilities": ["Willpower", "Indomitable spirit"]
+      "nome": "Lanterna Verde",
+      "poderes": ["Anel de poder", "Voo", "Construtos de energia"],
+      "habilidades": ["Força de vontade", "Espírito indomável"]
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "perfil": {
+    "nome": "typicode"
   }
 }
