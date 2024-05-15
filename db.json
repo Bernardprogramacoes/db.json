@@ -1,0 +1,43 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Superman",
+      "powers": ["Super strength", "Flight", "Heat vision"],
+      "abilities": ["Leadership", "Combat skills"]
+    },
+    {
+      "id": 2,
+      "name": "Batman",
+      "powers": ["Strategic intellect", "Wealth"],
+      "abilities": ["Martial arts", "Detective skills"]
+    },
+    {
+      "id": 3,
+      "name": "Flash",
+      "powers": ["Super speed", "Time manipulation"],
+      "abilities": ["Speed thinking", "Enhanced perception"]
+    },
+    {
+      "id": 4,
+      "name": "Wonder Woman",
+      "powers": ["Super strength", "Flight", "Lasso of Truth"],
+      "abilities": ["Combat skills", "Diplomacy"]
+    },
+    {
+      "id": 5,
+      "name": "Aquaman",
+      "powers": ["Underwater adaptation", "Super strength", "Telepathic control over marine life"],
+      "abilities": ["Swimming", "Leadership"]
+    },
+    {
+      "id": 6,
+      "name": "Green Lantern",
+      "powers": ["Power ring", "Flight", "Energy constructs"],
+      "abilities": ["Willpower", "Indomitable spirit"]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
